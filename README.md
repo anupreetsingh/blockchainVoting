@@ -1,6 +1,5 @@
 # Voting-Dapp
-Decentralized Voting dApp where users can connect their wallet and create a voting poll with options and other users can vote each options. A user can only vote once on a given poll.
-### Hosted on: https://govote.on.fleek.co/
+Blockchain Voting dApp where users can connect their wallet and create a voting poll with options and other users can vote each options. A user can only vote once on a given poll.
 
 ## How to setup this dApp
 ### Smart Contract:
